@@ -34,6 +34,7 @@ I am especially interested in the details that make an interface feel reliable: 
 
 I also build focused UI components to practice interaction details, styling consistency, and reusable patterns:
 
+- [Password Section](https://github.com/jade-hernandez/password-section) - password change form with real-time validation, controlled inputs, accessible error states, and API integration.
 - [Tabs component](https://github.com/jade-hernandez/tabs-component) - animated tab transitions with React, TypeScript, Tailwind CSS, and Motion
 - [Pagination component](https://github.com/jade-hernandez/pagination-component) - page navigation with customizable labels and accessible current-page semantics
 - [Contact Us page](https://github.com/jade-hernandez/contact-us-page) - form validation, FAQ accordion, smooth scroll, and focus management
