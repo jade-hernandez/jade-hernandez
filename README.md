@@ -28,7 +28,6 @@ I am especially interested in the details that make an interface feel reliable: 
 | **Features Page** | A multi-section React + TypeScript page with responsive image placeholders, reusable feature cards, FAQ accordion, testimonials, contact form, and accessibility-minded layout. | [Repo](https://github.com/jade-hernandez/features-page) - [Live](https://features-page-five.vercel.app/) |
 | **About Us Page** | A full page build with live statistics, skeleton loading, retryable error state, responsive team imagery, contact form validation, and a keyboard-friendly mobile menu. | [Repo](https://github.com/jade-hernandez/about-us-page) - [Live](https://about-us-page-two.vercel.app/) |
 | **ArtSpark** | A daily artwork discovery app using the Art Institute of Chicago API, TanStack Query, Supabase auth, favorites, skeleton states, a drawer, and image detail views. | [Repo](https://github.com/jade-hernandez/artspark) - [Live](https://artspark-pied.vercel.app/) |
-| **Starter Project Library** | A React + TypeScript component library starter with documented buttons, modals, tooltips, toggles, pricing cards, and reusable UI patterns. | [Repo](https://github.com/jade-hernandez/starter-project-library) |
 
 ## Component Practice
 
