@@ -23,7 +23,7 @@ I am especially interested in the details that make an interface feel reliable: 
 
 | Project | What it shows | Links |
 | --- | --- | --- |
-| **MonGuide FODMAP** | A personalized FODMAP guide for people with IBS after reintroduction testing. Includes profile setup, local persistence, food search, category filters, and compatibility filtering across 110 foods. | [Repo](https://github.com/jade-hernandez/guide-monf) - [Live](https://mon-guide-fodmap.com/) |
+| **MonGuide FODMAP** | A personalized FODMAP guide for people with IBS after reintroduction testing. Includes profile setup, local persistence, food search, category filters, and compatibility filtering across 100 foods safe to eat. | [Repo](https://github.com/jade-hernandez/guide-monf) - [Live](https://mon-guide-fodmap.com/) |
 | **Marketing Landing Page** | A complete responsive landing page built from reusable sections: navigation, hero, logo marquee, pricing toggle, FAQ, newsletter form, contact form, and footer. | [Repo](https://github.com/jade-hernandez/marketing-landing-page) - [Live](https://marketing-landing-page-lake.vercel.app/) |
 | **Features Page** | A multi-section React + TypeScript page with responsive image placeholders, reusable feature cards, FAQ accordion, testimonials, contact form, and accessibility-minded layout. | [Repo](https://github.com/jade-hernandez/features-page) - [Live](https://features-page-five.vercel.app/) |
 | **About Us Page** | A full page build with live statistics, skeleton loading, retryable error state, responsive team imagery, contact form validation, and a keyboard-friendly mobile menu. | [Repo](https://github.com/jade-hernandez/about-us-page) - [Live](https://about-us-page-two.vercel.app/) |
